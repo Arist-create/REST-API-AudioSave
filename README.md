@@ -10,4 +10,10 @@ docker-compose up
 ```python
 http://127.0.0.1:8000/docs
 ```
+*Steps:*
 
+**1. Create new user**
+
+**2. Add audiofile**
+
+**3. Go by url in response!**
